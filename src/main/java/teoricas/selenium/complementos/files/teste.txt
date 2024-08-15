@@ -1,0 +1,17 @@
+======================================================================================================================================
+2024-03-06 01:03:55.725: SISTEMA: SITE DO MEU TRABALHO
+2024-03-06 01:03:55.769: FUNCIONALIDADE: CADASTRO DE USUÁRIO
+======================================================================================================================================
+2024-03-06 01:03:55.770: VERSÃO: 1.0.3
+======================================================================================================================================
+2024-03-06 01:03:55.771: CENÁRIO: CADASTRO FAIL
+2024-03-06 01:03:55.778: > Step 1 acessarSite
+2024-03-06 01:03:55.786: > Step 2 preencherIdadeInvalida - valor utilizado: AA
+2024-03-06 01:03:55.787: > Step 3 clicarContinuar
+2024-03-06 01:03:55.788: VIXI!!! Deu erro aqui, rapaz!
+						 teoricas.selenium.complementos.classes.ParaDarErro.soPraDarErro(ParaDarErro.java:6)
+						 teoricas.selenium.complementos.classes.Log.exemploLogFalha(Log.java:59)
+						 teoricas.selenium.complementos.classes.Log.main(Log.java:22)
+
+Essa linha só pra mostrar sem data e hora sem tabulação
+						 Essa linha só pra mostrar sem data e hora com tabulação
